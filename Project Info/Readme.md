@@ -113,9 +113,9 @@
 ---
 
 This is the final output and how the project looks, chatbot for addressing various queries related to college.
-![3](https://github.com/user-attachments/assets/3029e6ed-346f-4b66-96af-9c50e9a4afc1)
-![2](https://github.com/user-attachments/assets/6cc0a165-09ab-4911-ac1c-f6c73e1dc350)
 ![1](https://github.com/user-attachments/assets/525fb78c-c58d-4826-9ee3-14fbc10e1615)
+![2](https://github.com/user-attachments/assets/6cc0a165-09ab-4911-ac1c-f6c73e1dc350)
+![3](https://github.com/user-attachments/assets/3029e6ed-346f-4b66-96af-9c50e9a4afc1)
 
 
 
