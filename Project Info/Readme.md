@@ -114,10 +114,9 @@
 
 This is the final output and how the project looks, chatbot for addressing various queries related to college.
 
-![WhatsApp SS](./whatapp-ss/1.jpg)
-![WhatsApp SS](./whatapp-ss/2.jpg)
-![WhatsApp SS](./whatapp-ss/3.jpg)
-![WhatsApp SS](./whatapp-ss/4.jpg)
-![WhatsApp SS](./whatapp-ss/5.jpg)
+
+![WhatsApp Image 2025-08-03 at 5 38 50 PM](https://github.com/user-attachments/assets/7d2e1e55-3d7d-4659-9892-625dc75ec755)
+![WhatsApp Image 2025-08-03 at 5 38 50 PM (1)](https://github.com/user-attachments/assets/6e252718-c216-4802-84f6-06556e1f24f9)
+![WhatsApp Image 2025-08-03 at 5 38 49 PM](https://github.com/user-attachments/assets/717d54e9-e718-45a0-bb72-5dacc3d9c9bd)
 
 ---
